@@ -1,0 +1,43 @@
+[
+  {
+    "key": 1,
+    "title": "StudyNotion",
+    "imageSrc": "https://res.cloudinary.com/dvuuccuaj/image/upload/v1721418005/Portfolio/Studynotion.png",
+    "description": "An EdTech Platform is made by using MERN Stack",
+    "demo": "https://studynotion-edtech-navy.vercel.app/",
+    "source": "https://github.com/Sagarhaldar0009/Studynotion-Edtech"
+  },
+  {
+    "key": 2,
+    "title": "E-Store",
+    "imageSrc": "https://res.cloudinary.com/dvuuccuaj/image/upload/v1721418501/Portfolio/E-Store.png",
+    "description": "An Online Shopping Platform build by using React and Firebase",
+    "demo": "https://e-store-eta.vercel.app/",
+    "source": "https://github.com/Sagarhaldar0009/E-Store"
+  },
+  {
+    "key": 3,
+    "title": "Live Weather App",
+    "imageSrc": "https://res.cloudinary.com/dvuuccuaj/image/upload/v1721417773/Portfolio/WeatherApp.png",
+    "description": "Live Weather App is build by using HTML, CSS & JavaScript",
+    "demo": "https://live-weather-app-sigma.vercel.app/",
+    "source": "https://github.com/Sagarhaldar0009/LiveWeatherApp"
+  },
+  {
+    "key": 4,
+    "title": "Tic Tac Toe",
+    "imageSrc": "https://res.cloudinary.com/dvuuccuaj/image/upload/v1721418652/Portfolio/Tic-Tac-Toe.png",
+    "description": "Tic-Tac-Toe is just a game, build by using HTML, CSS & JavaScript",
+    "demo": "https://tic-tac-toe-game-umber-phi.vercel.app/",
+    "source": "https://github.com/Sagarhaldar0009/Tic-Tac-Toe-Game"
+  },
+  {
+    "key": 5,
+    "title": "Shopping-Cart",
+    "imageSrc": "https://res.cloudinary.com/dvuuccuaj/image/upload/v1721418203/Portfolio/Shopping-Cart.png",
+    "description": "A Shopping Cart is an Online Shopping Platform build by using React and Redux Library",
+    "demo": "https://shopping-cart-five-zeta.vercel.app/",
+    "source": "https://github.com/Sagarhaldar0009/Shopping-Cart"
+  }
+]
+

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java_language.svg"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++_language.svg"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/C_language.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Express",
+    "imageSrc":"skills/Express-JS-logo.jpg"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap_logo.svg"
+  },
+  {
+    "title":"Tailwind CSS",
+    "imageSrc":"skills/tailwind-css-logo.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/Sql_logo.svg"
+  },
+  {
+    "title":"MongoDb",
+    "imageSrc":"skills/MONGO-DB-logo.webp"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/Python_logo.png"
+  }
+]
